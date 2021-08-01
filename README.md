@@ -6,3 +6,4 @@ O arquivo de entrada contém um valor inteiro N.
 
 <h2>Saída</h2>
 Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:minutos:segundos, conforme exemplo fornecido.
+ggggggggggggggggggg
